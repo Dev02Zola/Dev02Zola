@@ -34,7 +34,7 @@ Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprend
 ## #amoprogramação<br/>
 
 
-<img align="right" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev02Zola&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img align="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev02Zola&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 
 <p align="center">
