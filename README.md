@@ -9,13 +9,13 @@ Estudante de <strong>Ciência da Computação</strong> pela <strong>UNIP - UNIVE
 
 Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprender mais, aperfeiçoando as minhas habilidades a cada dia e torcendo para que eu consiga uma oportunidade, seja qual for, de estágio ou de emprego, para que eu consiga evoluir e demonstrar o pouco de conhecimento que tenho.
 
-<a href = "https://gamma.app/docs/Tecnologias-da-Ciencia-da-Computacao-a-Seguranca-da-Informacao-1ifptv40j47y05u?mode=doc"> <img src="https://img.shields.io/badge/NdongalaZola-Blog-v1abc9c.svg" target="_blank"></a>
+<a href = "https://gamma.app/docs/Tecnologias-da-Ciencia-da-Computacao-a-Seguranca-da-Informacao-1ifptv40j47y05u?mode=doc" target="_blank"> <img src="https://img.shields.io/badge/NdongalaZola-Blog-v1abc9c.svg" target="_blank"></a>
 <div align="left"> 
-<a href = "https://dev02zola.github.io/CardProject_Zola"> <img src="https://img.shields.io/badge/Dev02Zola-CartãoDeApresentação-ED1C24?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href = "https://dev02zola.github.io/CardProject_Zola" target="_blank"> <img src="https://img.shields.io/badge/Dev02Zola-CartãoDeApresentação-ED1C24?style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/zola_z10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0DD3?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.io.02nzn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.io.02nzn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 30px" ></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.zolandozi2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.zolandozi2@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div><br/>
 
 
