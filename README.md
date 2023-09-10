@@ -9,11 +9,14 @@ Estudante de <strong>Ciência da Computação</strong> pela <strong>UNIP - UNIVE
 
 Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprender mais, aperfeiçoando as minhas habilidades a cada dia e torcendo para que eu consiga uma oportunidade, seja qual for, de estágio ou de emprego, para que eu consiga evoluir e demonstrar o pouco de conhecimento que tenho.
 
-[![Website](https://img.shields.io/badge/NdongalaZola-Blog-v1abc9c.svg)](https://gamma.app/docs/Tecnologias-da-Ciencia-da-Computacao-a-Seguranca-da-Informacao-1ifptv40j47y05u?mode=doc)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zola_z10)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.io.02nzn)
-[![Site](https://img.shields.io/badge/Dev02Zola-CartãoDeApresentação-ED1C24?style=for-the-badge&logoColor=white)](https://dev02zola.github.io/CardProject_Zola)
+<a href = "https://gamma.app/docs/Tecnologias-da-Ciencia-da-Computacao-a-Seguranca-da-Informacao-1ifptv40j47y05u?mode=doc"> <img src="https://img.shields.io/badge/NdongalaZola-Blog-v1abc9c.svg" target="_blank"></a>
+<div align="left"> 
+<a href = "https://dev02zola.github.io/CardProject_Zola"> <img src="https://img.shields.io/badge/Dev02Zola-CartãoDeApresentação-ED1C24?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/zola_z10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0DD3?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.io.02nzn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.zolandozi2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div><br/>
 
 
 ![Zola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev02Zola&show_icons=true&theme=radical)
@@ -21,10 +24,10 @@ Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprend
 ### <h2><strong>Tecnologias</strong> usados ao longo da minha jornada :</h2> 
 
 <div style="display: inline_block"><br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" align="center" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" align="center" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" alt="html5" align="center" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" alt="css3" align="center" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" alt="javascript" align="center" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="github" align="center" />
 </div><br/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;</br>
@@ -42,7 +45,7 @@ Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprend
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/zola_z10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/zola_z10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0DD3?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div></> 
  
 ### <h2>Todas as Tecnologias e Ferramentas:</h2>
