@@ -75,6 +75,8 @@ Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprend
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev02Zola}/count.svg" /></p> 
 <br></div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev02Zola&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Snake animation](https://github.com/Dev02Zola/Dev02Zola/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1616D8&height=120&section=footer"/>
