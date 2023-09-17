@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1616D8&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0DD3&size=45&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Ndongala+Zola!;Tenho+23+anos+de+idade.;Seja+Bem+Vindo!+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0DD3&size=45&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Zola!;Tenho+23+anos+de+idade.;Seja+Bem+Vindo!+😉)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3BC0E&size=35&center=true&vCenter=true&width=1000&lines=Iniciante+na+área+de+Desenvolvimento+de+Software.;)](https://git.io/typing-svg)
 
@@ -80,7 +80,7 @@ Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprend
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev02Zola&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/Dev02Zola/Dev02Zola/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Dev02Zola/Dev02Zola/blob/output/github-contribution-grid-snake.svg)-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1616D8&height=120&section=footer"/>
 
