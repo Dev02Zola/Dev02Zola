@@ -1,9 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1616D8&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0DD3&size=45&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Zola!;Tenho+23+anos+de+idade.;Seja+Bem+Vindo!+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0DD3&size=45&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Zola!;Tenho+23+anos+de+idade.;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3BC0E&size=35&center=true&vCenter=true&width=1000&lines=Iniciante+na+área+de+Desenvolvimento+de+Software.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3BC0E&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+😉;)](https://git.io/typing-svg)
 
 Estudante de <strong>Ciência da Computação</strong> pela <strong>UNIP - UNIVERSIDADE PAULISTA</strong>. Apaixonado pela <strong>Tecnologia</strong> e com uma grande vontade pela busca de novos conhecimentos, aprendizados e desafios constantes para a melhor capacitação <strong>técnica</strong> e <strong>pessoal</strong>. Sempre a procura de novas ferramentas e tentando a cada dia empenhando-se e esforçando-se a compreender cada uma delas através da <strong>programação</strong>.<br/>
 
