@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3BC0E&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+😉;)](https://git.io/typing-svg)
 
-Estudante de <strong>Ciência da Computação</strong> pela <strong>UNIP - UNIVERSIDADE PAULISTA</strong>. Apaixonado pela <strong>Tecnologia</strong> e com uma grande vontade pela busca de novos conhecimentos, aprendizados e desafios constantes para a melhor capacitação <strong>técnica</strong> e <strong>pessoal</strong>. Sempre a procura de novas ferramentas e tentando a cada dia empenhando-se e esforçando-se a compreender cada uma delas através da <strong>programação</strong>.<br/>
+Estudante de <strong>Ciência da Computação</strong> pela <strong>UNIP - UNIVERSIDADE PAULISTA</strong>. Apaixonado pela <strong>Tecnologia</strong> e com uma grande vontade pela busca de novos conhecimentos, aprendizados e desafios constantes para a melhor capacitação <strong>técnica</strong> e <strong>pessoal</strong>. Sempre a procura de novas ferramentas e tentando a cada dia, empenhando-se e esforçando-se a compreender cada uma delas através da <strong>programação</strong>.<br/>
 
 Não tenho muita exeperiência na área. Por isso, estou me esforçando a aprender mais, aperfeiçoando as minhas habilidades a cada dia e torcendo para que eu consiga uma oportunidade, seja qual for, de estágio ou de emprego, para que eu consiga evoluir e demonstrar o pouco de conhecimento que tenho.
 
